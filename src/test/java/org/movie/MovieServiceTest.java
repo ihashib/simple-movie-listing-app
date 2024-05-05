@@ -9,7 +9,7 @@ public class MovieServiceTest {
     @Before
     public void setup() {
         movieService = new MovieService();
-        // TODO: Add movies
+        // TODO
     }
 
     @Test
@@ -33,7 +33,7 @@ public class MovieServiceTest {
     }
 
     @Test
-    public void testSearchFavorites() {
+    public void testAddMovieToFavorites() {
         // TODO
     }
 }
