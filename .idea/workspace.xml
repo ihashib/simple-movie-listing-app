@@ -63,7 +63,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -135,7 +135,7 @@
       <workItem from="1714883772628" duration="43000" />
       <workItem from="1714883996915" duration="68000" />
       <workItem from="1714884235742" duration="887000" />
-      <workItem from="1714888304864" duration="1635000" />
+      <workItem from="1714888304864" duration="1956000" />
     </task>
     <servers />
   </component>
